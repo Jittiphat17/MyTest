@@ -29,5 +29,5 @@
    ```bash
    node server.js
 2. เซิร์ฟเวอร์จะรันที่ http://localhost:3000
-3. เปิดไฟล์ index.html
+
 
