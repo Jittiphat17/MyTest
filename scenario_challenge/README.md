@@ -29,5 +29,6 @@
    ```bash
    node server.js
 2. เซิร์ฟเวอร์จะรันที่ http://localhost:3000
+3. ทดสอบแจ้งเตือนที่ไลน์กลุ่ม Link https://line.me/ti/g/w_-3NIZTA7
 
 
