@@ -10,7 +10,7 @@ const machines = {
 
 // LINE API URL และ Token
 const LINE_API_URL = 'https://notify-api.line.me/api/notify';
-const LINE_TOKEN = 'xquEfwDs9OVZV5mgDGtOuvbTfR8BS0gUA1MAdejW3Xy';
+const LINE_TOKEN = 'P6xI8SIP89GLsEOhlLamVMfxTLbQw6wsW735Kj2kcow';
 // ฟังก์ชันส่งข้อความแจ้งเตือนผ่าน LINE Notify
 async function sendLineNotification(message) {
     try {
